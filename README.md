@@ -9,6 +9,10 @@ Twice a week (check your calendar):
 1. Tuesdays
 2. Fridays
 
+## Daily Work Log (Slack)
+
+Post a sentence about what you're working on today in our shared Slack channel `daily_work_log`. This is to keep each other up-to-date on what's happening on the other side of the globe.
+
 ## Asana Workflow
 
 `🚀 Weekly Stand-Up` board is our central cooperation hub.
